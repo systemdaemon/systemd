@@ -1,7 +1,7 @@
 
 unshare system call:
 --------------------
-This document describes the new system call, unshare. The document
+This document describes another system call, unshare. The document
 provides an overview of the feature, why it is needed, how it can
 be used, its interface specification, design, implementation and
 how it can be tested.
